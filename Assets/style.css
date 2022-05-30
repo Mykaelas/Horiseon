@@ -51,10 +51,11 @@ p {
 }
 
 .hero {
-    background-image: url("./Assets/digital-marketing-meeting.jpg");
-    background-size: cover;
-    height: 800px;
+    height: 1000px;
+    width: 100%;
     margin-bottom: 25px;
+    background-image: url("./Images/digital-marketing-meeting.jpg");
+    background-size: cover;
     background-position: center;
 }
 
@@ -86,17 +87,17 @@ p {
 }
 
 .benefit-lead {
-    margin-bottom: 32px;
+    margin-bottom: 70px;
     color: #ffffff;
 }
 
 .benefit-brand {
-    margin-bottom: 32px;
+    margin-bottom: 70px;
     color: #ffffff;
 }
 
 .benefit-cost {
-    margin-bottom: 32px;
+    margin-bottom: 70px;
     color: #ffffff;
 }
 
