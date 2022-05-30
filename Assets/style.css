@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Header CSS section */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -41,6 +42,8 @@ body {
     margin-left: 25px;
 }
 
+/* Header CSS section Ends */
+
 a {
     color: #ffffff;
     text-decoration: none;
@@ -49,9 +52,9 @@ a {
 p {
     font-size: 16px;
 }
-
+/* Hero Section Starts */
 .hero {
-    height: 1000px;
+    height: 800px;
     width: 100%;
     margin-bottom: 25px;
     background-image: url("./Images/digital-marketing-meeting.jpg");
@@ -105,7 +108,7 @@ p {
 .benefit-cost img {
     display: block;
     margin: 10px auto;
-    max-width: 150px;
+    max-width: 130px;
 }
 
 .online-reputation-management, 
@@ -132,7 +135,9 @@ p {
     font-size: 36px;
 }
 
+/* Hero Section Ends */
 
+/* Footer Section Starts */
 .footer {
     padding: 30px;
     clear: both;
@@ -143,3 +148,5 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+
+/* Footer Section ends */
